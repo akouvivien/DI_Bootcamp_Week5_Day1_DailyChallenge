@@ -1,0 +1,7 @@
+{
+  "name": "DI_Bootcamp_Week5_Day1_DailyChallenge",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
